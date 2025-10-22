@@ -1,0 +1,6 @@
+@SimuQuestAPI_HostAddress = http://localhost:5118
+
+GET {{SimuQuestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
